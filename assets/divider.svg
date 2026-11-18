@@ -3,8 +3,8 @@
 <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1.5" fill="#000" fill-opacity=".38"/></pattern>
 <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse"><circle cx="5" cy="5" r="2.1" fill="#8f0000"/></pattern>
 <style>
-.s{font-family:'Times New Roman',Times,'Liberation Serif','Nimbus Roman No9 L','DejaVu Serif',serif;font-weight:700;fill:#f3efe6}
-.j{font-family:'Yu Mincho',YuMincho,'Hiragino Mincho ProN','MS Mincho','Noto Serif JP','Noto Serif CJK JP',serif;font-weight:800;fill:#0a0a0a}
+.s{font-family:EvaMincho,'Times New Roman',Times,'Liberation Serif','Nimbus Roman No9 L','DejaVu Serif',serif;font-weight:700;fill:#f3efe6}
+.j{font-family:EvaMincho,'Yu Mincho',YuMincho,'Hiragino Mincho ProN','MS Mincho','Noto Serif JP','Noto Serif CJK JP',serif;font-weight:800;fill:#0a0a0a}
 .m{font-family:Consolas,'SF Mono',Menlo,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:15px;fill:#8a8a8a}
 .w{fill:#f3efe6}.r{fill:#e10600}.k{fill:#0a0a0a}
 .bl{animation:bl 1.2s steps(1,end) infinite}
